@@ -1,0 +1,4 @@
+{
+    "dotnet.preferCSharpExtension": false,
+    "cmake.configureOnOpen": false
+}
