@@ -1,6 +1,6 @@
 # gamgee
 
-TODO
+Hide/minimize windows after system startup
 
 ## Notes
 
